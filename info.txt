@@ -1,0 +1,12 @@
+Model              Decoder-only Transformer
+Parameters         17,037,312
+Vocabulary         16,384
+Context            256
+Embedding          384
+Layers             6
+Heads              6
+Initialization     Random
+Pretrained weights  None
+Training tokens    2,318,333
+GPU                CUDA
+Initial loss       9.7958
