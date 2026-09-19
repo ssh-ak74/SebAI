@@ -46,21 +46,6 @@ The goal is to build the entire learning pipeline myself and understand each par
 
 SebAI is currently an experimental model and is still being trained and improved.
 
-Current work includes:
-
-* [x] Build the initial training pipeline
-* [x] Train from randomly initialized weights
-* [x] Train using PyTorch
-* [x] Run training on Google Colab
-* [x] Save model checkpoints
-* [ ] Improve dataset quality
-* [ ] Improve tokenization
-* [ ] Increase model capacity
-* [ ] Implement better inference
-* [ ] Build a proper chat interface
-* [ ] Add retrieval-augmented generation (RAG)
-* [ ] Create a public demo
-
 ---
 
 ## Architecture
