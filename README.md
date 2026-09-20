@@ -1,4 +1,4 @@
-# SebAI 🧠
+# SebAI V1
 
 **SebAI is an independent language model built from scratch.**
 
@@ -6,7 +6,7 @@ SebAI is an experimental language model created to understand how language model
 
 The project is written in **Python** and trained with **PyTorch** on Google Colab.
 
-> ⚠️ SebAI is an experimental research/learning project. It is not intended to compete with modern large language models.
+>  SebAI is an experimental research/learning project. It is not intended to compete with modern large language models.
 
 ---
 
@@ -42,7 +42,7 @@ The goal is to build the entire learning pipeline myself and understand each par
 
 ## Current Status
 
-🚧 **Active development**
+ **Active development**
 
 SebAI is currently an experimental model and is still being trained and improved.
 
@@ -257,45 +257,6 @@ SebAI is currently limited by:
 * No production-grade inference system
 
 Because of these limitations, SebAI should be considered an **experimental model**, not a production AI assistant.
-
----
-
-## Roadmap
-
-### Phase 1 — Foundation
-
-* [x] Initial model
-* [x] Training pipeline
-* [x] Dataset pipeline
-* [x] Checkpointing
-
-### Phase 2 — Better Language Modeling
-
-* [ ] Improved tokenizer
-* [ ] Better dataset
-* [ ] Larger context length
-* [ ] Larger model
-* [ ] More training
-
-### Phase 3 — SebAI Assistant
-
-* [ ] Inference engine
-* [ ] Chat interface
-* [ ] Conversation history
-* [ ] Local deployment
-
-### Phase 4 — Knowledge
-
-* [ ] RAG
-* [ ] Document ingestion
-* [ ] Local knowledge base
-
-### Phase 5 — Optimization
-
-* [ ] Faster inference
-* [ ] Quantization
-* [ ] Memory optimization
-* [ ] Model compression
 
 ---
 
